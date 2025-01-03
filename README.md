@@ -11,7 +11,7 @@ I'm a former academic learning how to code at 42 Berlin. I am both interested in
 - Fractals (https://github.com/lotte-detaeye/fractals): This program displays two different kinds of fractals on the screen.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [linkedin.com/in/lieselot-de-taeye](https://www.linkedin.com/in/lieselot-de-taeye)
+- **LinkedIn**: [be.linkedin.com/in/lieselot-de-taeye-38a70869]([https://be.linkedin.com/in/lieselot-de-taeye-38a70869])
 - **Twitter**: [x.com/i2overflow](x.com/i2overflow)
 
 ## 🌱 I'm Currently Learning
