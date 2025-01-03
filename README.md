@@ -1,5 +1,5 @@
 ## About Me
-Hello :), I'm a former academic learning how to code at 42 Berlin. I am both interested in understanding fundamental low-level structures and applying that knowledge to create innovative, user-oriented applications.
+Hello :), I'm a former literary scholar who got really excited about programming. I am interested in understanding fundamental low-level structures and applying that knowledge to create innovative, user-oriented applications.
 
 ## 🌟 Top Projects
 - Cub3D (https://github.com/lotte-detaeye/cub3d): This project (made with @MacMosby) is a simplified recreation of the game Wolfenstein 3D, featuring a raycasting algorithm to render the maze. 
