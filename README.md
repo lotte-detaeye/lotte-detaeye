@@ -3,7 +3,7 @@ Hello :), I'm a former literary scholar who got excited about programming. My co
 
 ## Top Projects
 - Cub3D (https://github.com/lotte-detaeye/cub3d): This project (made with @MacMosby) is a simplified recreation of the game Wolfenstein 3D, featuring a raycasting algorithm to render the maze. 
-- Minishell (https://github.com/lotte-detaeye/minishell): This collaborative project (with @n-andr) delivers a robust command-line environment that emulates core Bash functionality. The shell mimics the core program of a basic Linux terminal.
+- Minishell (https://github.com/lotte-detaeye/minishell): This collaborative project (with @n-andr) delivers a robust shell that mimics the core command-line program of a Linux terminal
 - Fractals (https://github.com/lotte-detaeye/fractals): This program displays two different kinds of fractals on the screen.
 
 ## Technologies & Tools
