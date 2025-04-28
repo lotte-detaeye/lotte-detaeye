@@ -15,6 +15,8 @@ Hello :), I'm a literary scholar who got excited about programming. My core inte
 ## Technologies & Tools
 - **Languages**: C, C++
 - **Tools**: Git, Docker
+- **Web Stack**: Nginx, MariaDB, WordPress
+
 
 ## How to Reach Me
 - **LinkedIn**: [be.linkedin.com/in/lieselot-de-taeye-38a70869](https://be.linkedin.com/in/lieselot-de-taeye-38a70869)
