@@ -13,9 +13,10 @@ Hello :), I'm a literary scholar who got excited about programming. My core inte
 </p>
 
 ## Technologies & Tools
-- **Languages**: C, C++, HTML, CSS
-- **Tools**: Git, Docker
+- **Languages**: C, C++, Java, HTML, CSS
+- **Tools**: Git, Docker, Maven
 - **Web Stack**: Nginx, MariaDB, WordPress
+- **Frameworks**: Spring (basic experience)
 
 
 ## How to Reach Me
@@ -24,5 +25,5 @@ Hello :), I'm a literary scholar who got excited about programming. My core inte
 
 ## I'm Currently Learning
 - Advanced algorithms and data structures
-- System administration, networking fundamentals and server management
-- Graphics and game design
+- Designing AI-integrated systems
+- Graphics programming and game design fundamentals
