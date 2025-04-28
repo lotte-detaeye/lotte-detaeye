@@ -13,7 +13,7 @@ Hello :), I'm a literary scholar who got excited about programming. My core inte
 </p>
 
 ## Technologies & Tools
-- **Languages**: C, C++
+- **Languages**: C, C++, HTML, CSS
 - **Tools**: Git, Docker
 - **Web Stack**: Nginx, MariaDB, WordPress
 
