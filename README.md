@@ -12,6 +12,8 @@ Hello :), I'm a literary scholar who got excited about programming. My core inte
 <img src="https://github.com/user-attachments/assets/4ed3ca59-6b96-4412-81b6-a96e274e650f"  alt="Screenshot minishell" height="200"/>
 </p>
 
+I'm currently learning to set up projects with Docker (see my little 3 tier website project (https://github.com/lotte-detaeye/inception), if you're interested!).
+
 ## Technologies & Tools
 - **Languages**: C, C++, Java, HTML, CSS
 - **Tools**: Git, Docker, Maven
