@@ -2,6 +2,7 @@
 Hello :), I'm a literary scholar who got excited about programming. My core interests are in understanding fundamental low-level structures and using that knowledge to write transparent and reliable code.
 
 ## Top Projects
+- Contained (https://github.com/lotte-detaeye/inception): 3 tier website project where every service runs in a separate Docker container
 - Cub3D (https://github.com/lotte-detaeye/cub3d): This project (made with @MacMosby) is a simplified recreation of the game Wolfenstein 3D, featuring a raycasting algorithm to render the maze. 
 - Fractals (https://github.com/lotte-detaeye/fractals): This program displays two different kinds of fractals on the screen. It uses a mathematical algorithm to define each pixel
 - Minishell (https://github.com/lotte-detaeye/minishell): This collaborative project (with @n-andr) implements the core command-line functionalities of a basic Linux terminal
@@ -12,7 +13,7 @@ Hello :), I'm a literary scholar who got excited about programming. My core inte
 <img src="https://github.com/user-attachments/assets/4ed3ca59-6b96-4412-81b6-a96e274e650f"  alt="Screenshot minishell" height="200"/>
 </p>
 
-I'm currently learning to set up projects with Docker (see my little 3 tier website project (https://github.com/lotte-detaeye/inception), if you're interested!).
+I'm currently upgrading my C++ and Python skills in a bunch of smaller projects!
 
 ## Technologies & Tools
 - **Languages**: C, C++, Java, HTML, CSS
