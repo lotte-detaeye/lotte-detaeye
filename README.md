@@ -1,5 +1,5 @@
 ## About Me
-Hello :), I'm a literary scholar who got excited about programming. My core interests are in understanding fundamental low-level structures and using that knowledge to write transparent and reliable code.
+Hello :), I'm a former scholar in Literature and Linguistics who got excited about programming. My core interests are in understanding fundamental low-level structures and using that knowledge to write transparent and reliable code. I'm particularly curious about the possibilities of Gen AI and LLMs, and how they could support high quality writing and personal expression. 
 
 ## Top Projects
 - Contained (https://github.com/lotte-detaeye/inception): 3 tier website project where every service runs in a separate Docker container
