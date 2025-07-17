@@ -21,6 +21,8 @@ I'm currently upgrading my C++ and Python skills in a bunch of smaller projects!
 - **Tools**: Git, Docker, Maven
 - **Web Stack**: Nginx, MariaDB, WordPress
 - **Frameworks**: Spring (basic experience)
+- **NLP and AI Frameworks**: Doccano, LangChain, spaCy, Hugging Face Transformers
+
 
 
 ## How to Reach Me
