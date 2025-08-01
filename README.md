@@ -27,7 +27,6 @@ I'm currently upgrading my C++ and Python skills in a bunch of smaller projects!
 
 ## How to Reach Me
 - **LinkedIn**: [be.linkedin.com/in/lieselot-de-taeye-38a70869](https://be.linkedin.com/in/lieselot-de-taeye-38a70869)
-- **Twitter**: [x.com/i2overflow](https://x.com/i2overflow)
 
 ## I'm Currently Learning
 - Advanced algorithms and data structures
