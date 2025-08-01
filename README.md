@@ -1,5 +1,5 @@
 ## About Me
-Hello :), I'm a former scholar in Literature and Linguistics who got excited about programming. My core interests are in understanding fundamental low-level structures and using that knowledge to write transparent and reliable code. I'm particularly curious about the possibilities of Gen AI and LLMs, and how they could support high quality writing, language learning, and personal expression. 
+Hello :), I'm a former scholar in Literature and Linguistics who got excited about programming. My core interests are in understanding fundamental low-level structures and using that knowledge to write transparent and reliable code. I'm particularly curious about the possibilities of Gen AI and LLMs, and how they could support high quality writing, language learning, and knowledge access. 
 
 ## Top Projects
 - Verbose (https://github.com/lotte-detaeye/verbose): Work-in-progress NLP project focused on identifying and annotating common tendencies and non-idiomatic language in my own writing
