@@ -31,4 +31,3 @@ I'm currently upgrading my C++ and Python skills in a bunch of smaller projects!
 ## I'm Currently Learning
 - Advanced algorithms and data structures
 - Designing AI-integrated systems
-- Graphics programming and game design fundamentals
