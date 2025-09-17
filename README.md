@@ -21,7 +21,7 @@ I'm currently upgrading my C++ and Python skills in a bunch of smaller projects!
 - **Tools**: Git, Docker, Docker Compose, Maven, Nginx
 - **Web & Databases**: MariaDB, WordPress
 - **Frameworks**: Spring (basic experience), Tailwind CSS, React
-- **NLP and AI Frameworks**: Doccano, LangChain, spaCy, Hugging Face Transformers (basic experience)
+- **NLP and AI Frameworks**: Doccano, LangChain, spaCy, Hugging Face Transformers
 - **Other skills**: TypeScript, Vite, ESLint, PostCSS, basic system administration (SSH, VM management)
 
 
