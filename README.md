@@ -2,7 +2,7 @@
 Hello :), I'm a former scholar in Literature and Linguistics who got excited about programming. My core interests are in understanding fundamental low-level structures and using that knowledge to write transparent and reliable code. I'm particularly curious about the possibilities of Gen AI and LLMs, and how they could support high quality writing, language learning, and knowledge access. 
 
 ## Top Projects
-- My IRC Server (https://github.com/lotte-detaeye/ft_irc): an IRC server in C++ that is fully compatible with an official client
+- My_IRC (https://github.com/lotte-detaeye/ft_irc): an IRC server in C++ that is fully compatible with an official client
 - Toxicity (https://github.com/lotte-detaeye/toxicity): LLM-integrated app focused on detecting toxic speech
 - Contained (https://github.com/lotte-detaeye/contained): 3 tier website project (poetry blog) where every service runs in a separate Docker container
 
