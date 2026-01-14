@@ -34,5 +34,5 @@ I'm currently upgrading my C++ and Python skills in a bunch of smaller projects!
 - **LinkedIn**: [be.linkedin.com/in/lieselot-de-taeye-38a70869](https://be.linkedin.com/in/lieselot-de-taeye-38a70869)
 
 ## I'm Currently Learning
-- Advanced algorithms and data structures
+- Building a full-stack web application (with real-time features, and user management)
 - Designing AI-integrated systems
