@@ -18,13 +18,11 @@ My full name is Lieselot De Taeye; in Germany I go by Lotte.
 <img src="https://github.com/user-attachments/assets/4ed3ca59-6b96-4412-81b6-a96e274e650f"  alt="Screenshot minishell" height="200"/>
 </p>
 
-I'm currently upgrading my C++ and Python skills in a bunch of smaller projects!
-
 ## Technologies & Tools
-- **Languages**: C, C++, Java, JavaScript, Python, HTML, CSS
-- **Tools**: Git, Docker, Docker Compose, Maven, Nginx
+- **Languages**: C, C++, Python, HTML, CSS
+- **Tools**: Git, Docker, Docker Compose, Nginx
 - **Web & Databases**: MariaDB, WordPress
-- **Frameworks**: Spring (basic experience), Tailwind CSS, React
+- **Frameworks**: Tailwind CSS, React
 - **NLP and AI Frameworks**: Doccano, LangChain, spaCy, Hugging Face Transformers
 - **Other skills**: TypeScript, Vite, ESLint, PostCSS, basic system administration (SSH, VM management)
 
