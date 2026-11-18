@@ -1,5 +1,5 @@
 ## About Me
-Hello :), I'm a former scholar in Literature and Linguistics who got excited about programming. My core interests are in understanding fundamental low-level structures and using that knowledge to write transparent and reliable code. I'm particularly curious about the possibilities of Gen AI and LLMs, and how they could support high quality writing, language learning, and knowledge access.
+Hello :), I'm a former scholar in Literature and Linguistics who got excited about programming. 
 My full name is Lieselot De Taeye; in Germany I go by Lotte.
 
 ## Top Projects
